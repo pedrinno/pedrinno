@@ -1,4 +1,0 @@
-- 👋 Olá, meu nome é Pedro 
-- 👀 
-- 🌱 Estou interessado em aprender a programar novas linguagens
-- Estou aprendendo a programar recentemente novas linguagens 
